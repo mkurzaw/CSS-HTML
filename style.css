@@ -1,0 +1,48 @@
+body {
+	background-color:yellow;
+}
+.Nazwa{
+	font:INOX;
+	font-size:30px;
+	text-align:center;
+	background-color:blue;
+	padding:6px;
+	font-family: 'Century Gothic';
+	border-radius: 20px;
+	color:maroon;
+	margin:15px;
+}
+.Nazwa:hover{
+	font:INOX;
+	font-size:30px;
+	text-align:center;
+	background-color:maroon;
+	padding:6px;
+	font-family: 'Century Gothic';
+	border-radius: 20px;
+	color:blue;
+	margin:15px;
+}
+.Zdj{
+	padding:10px;
+	float:right;
+}
+.skladniki{
+	padding:30px;
+	font-size:20px;
+	background-color:red;
+	margin-right:500px;
+	border-radius: 20px;
+	margin:15px;
+	margin-top:20px;
+	font-family:Arial;
+	
+}
+.przygotowanie{
+	background-color:silver;
+	padding:30px;
+	font-size:20px;
+	border-radius: 20px;
+	margin:15px;
+	font-family:Arial;
+}
